@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Php on Hugo tranquilpeak theme</title>
+    <link>https://chungminhtu.github.io/MyBlog/tags/php/</link>
+    <description>Recent content in Php on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chungminhtu.github.io/MyBlog/tags/php/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bài viết số 1</title>
+      <link>https://chungminhtu.github.io/MyBlog/2018/04/b%C3%A0i-vi%E1%BA%BFt-s%E1%BB%91-1/</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://chungminhtu.github.io/MyBlog/2018/04/b%C3%A0i-vi%E1%BA%BFt-s%E1%BB%91-1/</guid>
+      <description> Tiêu đề bài viết Mục 1  Đây là một bài viết rất quan trọng  </description>
+    </item>
+    
+  </channel>
+</rss>
